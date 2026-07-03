@@ -1,0 +1,12 @@
+{
+  "domain": "graig_fatha_wind_farm",
+  "name": "Graig Fatha Wind Farm",
+  "version": "1.0.0",
+  "documentation": "https://github.com/MJP-76/GraigFathaWindFarm",
+  "issue_tracker": "https://github.com/MJP-76/GraigFathaWindFarm/issues",
+  "codeowners": ["@MJP-76"],
+  "iot_class": "cloud_polling",
+  "config_flow": true,
+  "requirements": [],
+  "integration_type": "hub"
+}

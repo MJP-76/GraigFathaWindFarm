@@ -1,0 +1,19 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to Graig Fatha Wind Farm",
+        "description": "Enter your dashboard username and password for a JSON endpoint.",
+        "data": {
+          "username": "Username",
+          "password": "Password",
+          "dashboard_url": "Dashboard JSON URL",
+          "site_name": "Site name"
+        }
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Only a single instance of Graig Fatha Wind Farm is allowed."
+    }
+  }
+}
