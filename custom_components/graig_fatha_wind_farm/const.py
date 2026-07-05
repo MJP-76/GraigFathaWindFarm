@@ -1,5 +1,7 @@
 """Constants for Graig Fatha Wind Farm."""
 
+from homeassistant.const import Platform
+
 DOMAIN = "graig_fatha_wind_farm"
 DEFAULT_NAME = "Graig Fatha Wind Farm"
 
@@ -10,4 +12,4 @@ CONF_SITE_NAME = "site_name"
 
 DEFAULT_DASHBOARD_URL = "https://example.com/dashboard/api"
 
-PLATFORMS = ["sensor"]
+PLATFORMS = [Platform.SENSOR]
