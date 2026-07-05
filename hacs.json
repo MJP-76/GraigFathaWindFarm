@@ -1,7 +1,6 @@
 {
   "name": "Graig Fatha Wind Farm",
   "render_readme": true,
-  "domains": ["graig_fatha_wind_farm"],
   "country": "GB",
   "homeassistant": "2024.1.0",
   "content_in_root": false

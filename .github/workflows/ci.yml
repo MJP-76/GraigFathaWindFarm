@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install ruff homeassistant
+
+      - name: Ruff lint
+        run: ruff check custom_components/
+
+      - name: Compile check
+        run: python -m compileall custom_components/graig_fatha_wind_farm
+
+      - name: Validate manifest JSON
+        run: python -c "import json; json.load(open('custom_components/graig_fatha_wind_farm/manifest.json'))"
