@@ -1,6 +1,6 @@
 [project]
 name = "graig-fatha-wind-farm"
-version = "1.0.0"
+version = "1.0.1"
 description = "Starter Home Assistant integration for a wind farm JSON dashboard"
 
 [tool.black]
