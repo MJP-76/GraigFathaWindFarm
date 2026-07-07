@@ -7,6 +7,14 @@
 [![CI][ci-badge]][ci]
 [![Built with GitHub Copilot][copilot-badge]][copilot]
 
+## Support me
+
+If you find this project useful, and would like to help support its continued development, you can do so here:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://www.buymeacoffee.com/mjp76)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=ffffff)](https://ko-fi.com/mjp76)
+[![Octopus Energy — you get £50, I get £50](https://img.shields.io/badge/Octopus%20Energy-%E2%80%94%20you%20get%20%C2%A350%2C%20I%20get%20%C2%A350-14294A?style=for-the-badge&logo=octopus-energy&logoColor=ffffff)](https://share.octopus.energy/iron-moose-196)
+
 Home Assistant custom component for Graig Fatha Wind Farm based on the JSON the dashboard returns.
 
 > **Not affiliated with Graig Fatha Wind Farm.** This is a community integration that
@@ -24,17 +32,9 @@ Home Assistant custom component for Graig Fatha Wind Farm based on the JSON the 
 - Domain: `graig_fatha_wind_farm`
 - Platform: `sensor`
 
-## Support me
-
-If you find this project useful, and would like to help support its continued development, you can do so here:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://www.buymeacoffee.com/mjp76)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=ffffff)](https://ko-fi.com/mjp76)
-[![Octopus Energy — you get £50, I get £50](https://img.shields.io/badge/Octopus%20Energy-%E2%80%94%20you%20get%20%C2%A350%2C%20I%20get%20%C2%A350-14294A?style=for-the-badge&logo=octopus-energy&logoColor=ffffff)](https://share.octopus.energy/iron-moose-196)
-
 ## Release notes
 
-- `v1.0.2`: Documentation update, support section refresh, and release metadata bump.
+- `v1.0.3`: Support section moved to the top of the docs and release metadata bumped.
 
 [home-assistant]: https://www.home-assistant.io/
 [ha-badge]: https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white
