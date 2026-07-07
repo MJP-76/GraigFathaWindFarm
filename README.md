@@ -34,7 +34,7 @@ If you find this project useful, and would like to help support its continued de
 
 ## Release notes
 
-- `v1.0.1`: Documentation update and release metadata bump.
+- `v1.0.2`: Documentation update, support section refresh, and release metadata bump.
 
 [home-assistant]: https://www.home-assistant.io/
 [ha-badge]: https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white
