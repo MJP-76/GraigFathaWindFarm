@@ -12,12 +12,6 @@ Home Assistant custom component for Graig Fatha Wind Farm based on the JSON the 
 > **Not affiliated with Graig Fatha Wind Farm.** This is a community integration that
 > reads the JSON returned by the dashboard with your username and password.
 
-If you find this integration useful, or want to support further development you can support my work here:
-
-[![Buy Me A Coffee][buymeacoffee-img]][buymeacoffee]
-
-Or use my [Octopus Energy referral link][octopus] — you get GBP50 credit for joining, and I get GBP50 too.
-
 ## Included starter functionality
 
 1. Basic config flow (username, password, dashboard URL, site name)
@@ -29,6 +23,14 @@ Or use my [Octopus Energy referral link][octopus] — you get GBP50 credit for j
 - Name: Graig Fatha Wind Farm
 - Domain: `graig_fatha_wind_farm`
 - Platform: `sensor`
+
+## Support me
+
+If you find this project useful, and would like to help support its continued development, you can do so here:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://www.buymeacoffee.com/mjp76)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=ffffff)](https://ko-fi.com/mjp76)
+[![Octopus Energy — you get £50, I get £50](https://img.shields.io/badge/Octopus%20Energy-%E2%80%94%20you%20get%20%C2%A350%2C%20I%20get%20%C2%A350-14294A?style=for-the-badge&logo=octopus-energy&logoColor=ffffff)](https://share.octopus.energy/iron-moose-196)
 
 [home-assistant]: https://www.home-assistant.io/
 [ha-badge]: https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white
@@ -42,7 +44,3 @@ Or use my [Octopus Energy referral link][octopus] — you get GBP50 credit for j
 [ci-badge]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/ci.yml/badge.svg
 [copilot]: https://github.com/features/copilot
 [copilot-badge]: https://img.shields.io/badge/Built%20with-GitHub%20Copilot-8A2BE2.svg
-[buymeacoffee]: https://www.buymeacoffee.com/mjp76
-[buymeacoffee-img]: https://cdn.buymeacoffee.com/buttons/default-orange.png
-[octopus]: https://share.octopus.energy/iron-moose-196
-
