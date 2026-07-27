@@ -1,11 +1,11 @@
 # Graig Fatha Wind Farm
 
-[![Home Assistant][ha-badge]][home-assistant]
-[![HACS][hacs-badge]][hacs]
-[![Hassfest][hassfest-badge]][hassfest]
-[![HACS Validation][validate-badge]][validate]
-[![CI][ci-badge]][ci]
-[![Built with GitHub Copilot][copilot-badge]][copilot]
+[![Home Assistant][badge-home-assistant]][home-assistant]
+[![HACS][badge-hacs]][hacs]
+[![HACS Validation][badge-hacs-validation]][workflow-hacs-validation]
+[![Hassfest][badge-hassfest]][workflow-hassfest]
+[![CI][badge-ci]][workflow-ci]
+[![GitHub Copilot][badge-copilot]][github-copilot]
 
 Home Assistant custom component for Graig Fatha Wind Farm based on the JSON the dashboard returns.
 
@@ -36,15 +36,15 @@ If you find this project useful, and would like to help support its continued de
 
 - `v1.0.4`: Moved the support section directly below the header content across the docs.
 
+[badge-home-assistant]: https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white
+[badge-hacs]: https://img.shields.io/badge/HACS-Custom-41BDF5.svg
+[badge-hassfest]: https://img.shields.io/github/actions/workflow/status/MJP-76/GraigFathaWindFarm/hassfest.yml?branch=main&label=Hassfest
+[badge-hacs-validation]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/validate.yml/badge.svg
+[badge-ci]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/ci.yml/badge.svg
+[badge-copilot]: https://img.shields.io/badge/GitHub%20Copilot-Built%20with-000000?style=flat-square&logo=githubcopilot
 [home-assistant]: https://www.home-assistant.io/
-[ha-badge]: https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white
 [hacs]: https://github.com/hacs/integration
-[hacs-badge]: https://img.shields.io/badge/HACS-Custom-41BDF5.svg
-[hassfest]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/hassfest.yml
-[hassfest-badge]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/hassfest.yml/badge.svg
-[validate]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/validate.yml
-[validate-badge]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/validate.yml/badge.svg
-[ci]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/ci.yml
-[ci-badge]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/ci.yml/badge.svg
-[copilot]: https://github.com/features/copilot
-[copilot-badge]: https://img.shields.io/badge/Built%20with-GitHub%20Copilot-8A2BE2.svg
+[workflow-hacs-validation]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/validate.yml
+[workflow-hassfest]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/hassfest.yml
+[workflow-ci]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/ci.yml
+[github-copilot]: https://github.com/features/copilot
