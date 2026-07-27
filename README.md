@@ -7,7 +7,7 @@
 [![CI][badge-ci]][workflow-ci]
 [![Release][badge-release]][releases]
 ![Status][badge-status]
-[![Built with AI][badge-ai]](https://openai.com)
+[![Built with AI][badge-built-with-ai]][built-with-ai]
 
 Home Assistant custom component for Graig Fatha Wind Farm based on the JSON the dashboard returns.
 
@@ -39,16 +39,17 @@ If you find this project useful, and would like to help support its continued de
 - `v1.0.4`: Moved the support section directly below the header content across the docs.
 
 [badge-home-assistant]: https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white
-[badge-hacs]: https://img.shields.io/badge/HACS-Custom-41BDF5.svg
-[badge-hassfest]: https://img.shields.io/github/actions/workflow/status/MJP-76/GraigFathaWindFarm/hassfest.yml?branch=main&label=Hassfest
-[badge-hacs-validation]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/validate.yml/badge.svg
-[badge-ci]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/ci.yml/badge.svg
-[badge-ai]: https://img.shields.io/badge/Built_with-AI-black?logo=openai&logoColor=white
-[badge-release]: https://img.shields.io/github/v/release/MJP-76/GraigFathaWindFarm?style=flat&label=Release
-[badge-status]: https://img.shields.io/badge/Status-experimental-yellow
 [home-assistant]: https://www.home-assistant.io/
+[badge-hacs]: https://img.shields.io/badge/HACS-Custom-41BDF5.svg
 [hacs]: https://github.com/hacs/integration
+[badge-hacs-validation]: https://img.shields.io/badge/HACS%20Validation-passing-brightgreen
 [workflow-hacs-validation]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/validate.yml
+[badge-hassfest]: https://img.shields.io/github/actions/workflow/status/MJP-76/GraigFathaWindFarm/hassfest.yml?branch=main&label=Hassfest
 [workflow-hassfest]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/hassfest.yml
+[badge-ci]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/ci.yml/badge.svg
 [workflow-ci]: https://github.com/MJP-76/GraigFathaWindFarm/actions/workflows/ci.yml
+[badge-release]: https://img.shields.io/github/v/release/MJP-76/GraigFathaWindFarm?style=flat&label=Release
 [releases]: https://github.com/MJP-76/GraigFathaWindFarm/releases
+[badge-status]: https://img.shields.io/badge/Status-experimental-yellow
+[badge-built-with-ai]: https://img.shields.io/badge/Built%20with-AI-black?logo=openai&logoColor=white
+[built-with-ai]: https://openai.com
