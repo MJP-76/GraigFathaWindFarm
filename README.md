@@ -1,5 +1,6 @@
 # Graig Fatha Wind Farm
 
+[![Documentation][badge-docs]][docs]
 [![Home Assistant][badge-home-assistant]][home-assistant]
 [![HACS][badge-hacs]][hacs]
 [![HACS Validation][badge-hacs-validation]][workflow-hacs-validation]
@@ -37,6 +38,8 @@ If you find this project useful, and would like to help support its continued de
 
 - `v1.0.4`: Moved the support section directly below the header content across the docs.
 
+[badge-docs]: https://img.shields.io/badge/Documentation-41BDF5?style=flat-square&logo=bookstack&logoColor=white
+[docs]: https://MJP-76.github.io/GraigFathaWindFarm/
 [badge-home-assistant]: https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white
 [home-assistant]: https://www.home-assistant.io/
 [badge-hacs]: https://img.shields.io/badge/HACS-Custom-41BDF5.svg
